@@ -26,7 +26,7 @@ docker
 - docker-compose的简单配置
 在目标文件夹内创建docker-compose.yml
 
-```python
+```
 # docker-compose.yml
 version: '3'
 
@@ -75,7 +75,7 @@ services:
 
 在docker-compose.yml中改变Nginx映射的配置目录，在新目录下增加配置default.conf
 
-```python
+```
 # default.conf
 # 虚拟主机配置
 server{
@@ -98,7 +98,7 @@ server{
 ```
 添加Dockerfile，代码如下：
 
-```python
+```
 # Dockerfile
 FROM php:7.2-fpm
 
