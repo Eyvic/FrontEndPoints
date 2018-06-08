@@ -227,7 +227,7 @@ $ docker run  --rm --name mynginx --volume $PWD/html:/usr/share/nginx/html --vol
 
  本地访问 <http://localhost/deno> 时服务器进行反向代理，从 <https://github.com/ry/deno> 获取页面内容，添加nginx.conf到Nginx配置目录，生效后运行服务器打开 <http://localhost/deno> 会打开 <https://github.com/ry/deno>，代码如下：
 
-```python
+```
 worker_process 1;
 
 pid logs/nginx.pid;
@@ -265,7 +265,7 @@ http {
 
 - 正向代理
 
- 正向代理好比一个跳板，当用户访问不了某网站时，能够访问一个代理服务器，通过连接代理服务器，告诉他需要的访问内容，代理服务器拉取给用户，翻墙工具、游戏代理都是正向代理。
+正向代理好比一个跳板，当用户访问不了某网站时，能够访问一个代理服务器，通过连接代理服务器，告诉他需要的访问内容，代理服务器拉取给用户，翻墙工具、游戏代理都是正向代理。
 
 **4.负载均衡**
 
