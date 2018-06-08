@@ -300,7 +300,7 @@ server {
 
 ```c
 upstream webservers {
-    ip_hash;
+    # ip_hash;
     server 192.168.18.201 weight=1 max_fails=2 fail_timeout=2;
     server 192.168.18.202 weight=1 max_fails=2 fail_timeout=2;
     server 127.0.0.1:8080 backup;
