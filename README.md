@@ -1,12 +1,6 @@
 # Web Develop
 
-- 标准／规范
-  - [HTTP](https://eyvic.github.io/2018/05/16/HTTP/)
-  - W3C
-  - ECMAScript
-    
-    
-    
+### TODO
 - [ ] **计算机**
   - [ ] [计算机原理和操作系统](http://domicat.me/daily-notes-computer-theory/)
   - [ ] [原码、补码](http://www.cnblogs.com/zhangziqiu/archive/2011/03/30/ComputerCode.html)
@@ -20,6 +14,8 @@
   - [ ] [docker 概念](https://yeasy.gitbooks.io/docker_practice/appendix/command/#%E4%B8%80%E5%BC%A0%E5%9B%BE%E6%80%BB%E7%BB%93-docker-%E7%9A%84%E5%91%BD%E4%BB%A4)
   - [ ] [docker 问答录](https://blog.lab99.org/post/docker-2016-07-14-faq.html#su-zhu-ru-guo-he-rong-qi-xi-tong-bu-tong-de-hua-na-bu-shi-he-xu-ni-ji-yi-yang-yi-ceng-ceng-de-diao-yong-na-me-docker-he-xu-ni-ji-huan-you-shi-me-chai-bie)
 - [ ] **bash**
+  - [ ] [学习命令行](https://github.com/xitu/front-end-handbook-2018/blob/zh-Hans/learning/cli.md)
+  - [ ] learn bash shell
 - [ ] **思维**
 - [ ] **算法**
   
