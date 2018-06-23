@@ -19,7 +19,7 @@
 - [ ] **docker**
   - [ ] [docker 概念](https://yeasy.gitbooks.io/docker_practice/appendix/command/#%E4%B8%80%E5%BC%A0%E5%9B%BE%E6%80%BB%E7%BB%93-docker-%E7%9A%84%E5%91%BD%E4%BB%A4)
   - [ ] [docker 问答录](https://blog.lab99.org/post/docker-2016-07-14-faq.html#su-zhu-ru-guo-he-rong-qi-xi-tong-bu-tong-de-hua-na-bu-shi-he-xu-ni-ji-yi-yang-yi-ceng-ceng-de-diao-yong-na-me-docker-he-xu-ni-ji-huan-you-shi-me-chai-bie)
-  
+- [ ] bash
   
 - [ ] Game
   - [ ] [githug](https://github.com/Gazler/githug)
