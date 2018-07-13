@@ -18,10 +18,14 @@
   - [ ] learn bash shell
 - [ ] **思维**
 - [ ] **算法**
+  - [ ] [麻省理工学院公开课：算法导论](http://open.163.com/special/opencourse/algorithms.html)
+  
   
 - [ ] Game
   - [ ] [githug](https://github.com/Gazler/githug)
   - [ ] [learn git branching](https://learngitbranching.js.org/)
 
+- [ ] machine learning
+  - [ ] Google机器学习速成课程(https://developers.google.com/machine-learning/crash-course/?hl=zh-cn)
 
 - [ ] [科学大纲](https://zh.wikipedia.org/wiki/%E7%A7%91%E5%AD%A6%E5%A4%A7%E7%BA%B2)
