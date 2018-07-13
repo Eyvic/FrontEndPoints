@@ -5,6 +5,7 @@
   - [ ] [计算机原理和操作系统](http://domicat.me/daily-notes-computer-theory/)
   - [ ] [原码、补码](http://www.cnblogs.com/zhangziqiu/archive/2011/03/30/ComputerCode.html)
   - [ ] [二进制原码、反码、补码](https://jcchan23.github.io/2016/07/12/%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%8F%8D%E7%A0%81%E6%B1%82%E5%92%8C%E8%BF%90%E7%AE%97/)
+  - [ ] [计算机程序的构造和解释](https://www.youtube.com/playlist?list=PLkEwH_Z2WOlppy8oUfrGwFVlOuKyo3RO_)
   - [ ] [TCP/IP详解](http://www.52im.net/topic-tcpipvol1.html)
     - [ ] [TCP\IP, socket, UDP](https://www.jianshu.com/p/219eb040479b)
     - [ ] [TCP/IP 与 TCP，UDP 关系](https://zhuanlan.zhihu.com/p/24860273)
