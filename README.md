@@ -28,7 +28,7 @@
   - [ ] [learn git branching](https://learngitbranching.js.org/)
 
 - [ ] machine learning
-  - [ ] Google机器学习速成课程(https://developers.google.com/machine-learning/crash-course/?hl=zh-cn)
+  - [ ] [Google机器学习速成课程](https://developers.google.com/machine-learning/crash-course/?hl=zh-cn)
 
 - [ ] [科学大纲](https://zh.wikipedia.org/wiki/%E7%A7%91%E5%AD%A6%E5%A4%A7%E7%BA%B2)
 
