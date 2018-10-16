@@ -1,5 +1,15 @@
 # Develop
 
+### 必备要点
+- Git - 版本控制
+- SSH
+- HTTP/HTTPS 和 API
+- 基础终端使用
+- 学会搜索
+- 数据结构 & 算法
+- 字符编码
+- 设计模式
+
 ### TODO
 - [ ] **计算机**
   - [ ] [计算机原理和操作系统](http://domicat.me/daily-notes-computer-theory/)
